@@ -1,0 +1,8 @@
+﻿  Functions.cpp
+  Main.cpp
+C:\Users\Aaron\Desktop\CMP202-Assessment\Assignment\Main.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 587 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment.vcxproj -> C:\Users\Aaron\Desktop\CMP202-Assessment\Release\Assignment.exe

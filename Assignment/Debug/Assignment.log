@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+  Main.cpp
+D:\University Stuff\CMP 202\Assignment\Assignment\Main.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Assignment.vcxproj -> D:\University Stuff\CMP 202\Assignment\Debug\Assignment.exe
